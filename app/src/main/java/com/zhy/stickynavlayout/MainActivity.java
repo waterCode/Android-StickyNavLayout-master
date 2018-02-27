@@ -18,7 +18,6 @@ public class MainActivity extends FragmentActivity
 	private ViewPager mViewPager;
 	private FragmentPagerAdapter mAdapter;
 	private Fragment[] mFragments = new Fragment[mTitles.length];
-	RecyclerView
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
 	{
